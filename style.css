@@ -1,0 +1,39 @@
+.kg {
+  background-image: url("./imeges/mana.png");
+  width: 100%;
+  height: 1200px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  
+}
+.pubg {
+  margin: 30px;
+  display: flex;
+    justify-content: space-evenly;
+
+}
+.ddd {
+  font-family: "Nosifer", sans-serif;
+  color: yellow;
+  margin-top: 50px;
+}
+.ddd:hover {
+  color: red;
+}
+.fff {
+  width: 692px;
+  height: 119px;
+ background: linear-gradient(90deg, rgba(245, 194, 44, 0.96) 0%, #64AA58 28%, #FAFF00 58.5%, #D92E23 100%);
+;
+border: 11px solid #050505;
+font-size: 50px;
+margin-top: 576px;
+
+}
+.jjj{
+     font-family: "Nosifer", sans-serif;
+     color: yellow;
+     font-size: 100px;
+     text-align: center;
+}
